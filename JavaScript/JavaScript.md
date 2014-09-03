@@ -47,3 +47,13 @@ console.log(11%3)
 console.log("Hamburgers".substring(3,10)) -> burgers
 var myAge = 31; 
 console.log(myAge);
+
+// Declare a variable on line 3 called
+// myCountry and give it a string value.
+var myCountry = "Sweden"
+
+// Use console.log to print out the length of the variable myCountry.
+console.log( myCountry.length);
+
+// Use console.log to print out the first three letters of myCountry.
+console.log( myCountry.substring(0,3));
