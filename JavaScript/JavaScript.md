@@ -37,3 +37,7 @@ c. booleans (e.g. false, 5 > 4)
 3. Conditionals
 
 If the first condition is met, execute the first code block. If it is not met, execute the code in the else block. See the code on the right for another example.
+
+console.log(14%3)
+console.log(99%8)
+console.log(11%3)
