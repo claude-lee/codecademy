@@ -41,3 +41,5 @@ If the first condition is met, execute the first code block. If it is not met, e
 console.log(14%3)
 console.log(99%8)
 console.log(11%3)
+
+"wonderful day".substring(3,7)
