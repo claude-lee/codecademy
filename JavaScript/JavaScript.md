@@ -45,3 +45,5 @@ console.log(11%3)
 "wonderful day".substring(3,7)
 
 console.log("Hamburgers".substring(3,10)) -> burgers
+var myAge = 31; 
+console.log(myAge);
