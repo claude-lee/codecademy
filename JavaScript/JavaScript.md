@@ -120,3 +120,10 @@ var perimeterBox = function(length, width)
 };
 
 perimeterBox(2,3);
+---
+var nameString = function ( name ) {
+	return "Hi, I am" + " " + name;
+	
+};
+
+console.log(nameString("Claude"))
