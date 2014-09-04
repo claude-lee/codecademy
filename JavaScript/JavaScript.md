@@ -110,3 +110,13 @@ var timesTwo = function(number) {
 // Call timesTwo here!
 var newNumber = timesTwo(6);
 console.log(newNumber);
+
+--
+// Write your function starting on line 3
+
+var perimeterBox = function(length, width)
+{
+    return length + length + width + width;
+};
+
+perimeterBox(2,3);
