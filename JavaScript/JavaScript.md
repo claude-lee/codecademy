@@ -67,3 +67,14 @@ console.log(myName)
 myName = myName.substring(0,2)
 // On line 9, use console.log to print out the myName variable.
 console.log(myName)
+// Check if the user is ready to play!
+confirm("Are you reday to play?")
+var age = prompt("What's your age");
+if(age < 13)
+{
+    console.log("Ok, listen. You can play, but i won't take any responsibility.")
+}
+else
+{
+    console.log("Awesome! Go ahead and have fun!")
+}
